@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/daily-expenses-sharing-app.git
+git clone https://github.com/AbhinavTiwari2705/Expense-Tracker
 cd daily-expenses-sharing-app
 ```
 ### 2. Install Dependencies
